@@ -22,6 +22,9 @@
                             <a class="nav-link" href="?pages=experiences">Experiences</a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link" href="?pages=services">Services</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link" href="?pages=portfolio">Portfolio</a>
                         </li>
                         <li class="nav-item">

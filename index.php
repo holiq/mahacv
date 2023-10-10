@@ -11,6 +11,8 @@ if ($_GET['pages'] == 'about') {
     include_once './components/pages/skills.php';
 } elseif ($_GET['pages'] == 'experiences') {
     include_once './components/pages/experiences.php';
+} elseif ($_GET['pages'] == 'services') {
+    include_once './components/pages/services.php';
 } elseif ($_GET['pages'] == 'portfolio') {
     include_once './components/pages/portfolio.php';
 } elseif ($_GET['pages'] == 'contact') {
